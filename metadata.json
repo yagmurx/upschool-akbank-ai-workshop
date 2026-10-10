@@ -1,0 +1,8 @@
+{
+  "name": "Kariyer & Mülakat Koçu",
+  "description": "Mülakatçı unvanına özel potansiyel soru simülasyonu, interaktif mülakat provası ve eğitim içeriklerine göre bir sonraki adım kariyer yol haritası sunan yapay zeka koçu.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
