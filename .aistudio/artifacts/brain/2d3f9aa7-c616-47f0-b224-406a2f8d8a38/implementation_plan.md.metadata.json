@@ -1,6 +1,6 @@
 {
-  "summary":  "Kariyer ve Mülakat Koçu (Career & Interview Coach Agent) için mimari ve uygulama planı. Mülakatçı unvanına göre soru üretimi, interaktif mülakat simülasyonu, puanlama/geri bildirim ile eğitim geçmişi analizi ve bir sonraki adım eğitim yol haritası özelliklerini içerir.",
-  "updatedAt":  "2026-10-10T11:27:44.089751418Z",
+  "summary":  "Render (render.com) üzerinde Tek bir Full-Stack Node.js Web Service olarak canlıya alma rehberi ve yapılandırma planı. Build Command, Start Command, Ortam Değişkenleri (Environment Variables) ve package.json ayarlarını içerir.",
+  "updatedAt":  "2026-10-10T11:52:02.082746012Z",
   "requestFeedback":  true,
   "userFacing":  true
 }
